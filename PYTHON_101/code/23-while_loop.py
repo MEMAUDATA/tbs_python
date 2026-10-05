@@ -15,14 +15,9 @@ EXERCICE 1
 - Finally, still within your loop, print out offset so you can see how it changes.
 """
 # Initialize offset
-offset = 8
+
 
 # Code the while loop
-while offset != 0:
-  print("correcting...")
-  offset = offset -1
-  print(offset)
-
 
 
 

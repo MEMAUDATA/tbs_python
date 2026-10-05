@@ -37,8 +37,7 @@ else :
 # if-else construct for area
 if area > 15 :
     print("big place!")
-else :
-    print("pretty small")
+
 
 
 """
@@ -57,7 +56,5 @@ else :
 # if-elif-else construct for area
 if area > 15 :
     print("big place!")
-elif area > 10:
-    print("medium size, nice!")
 else :
     print("pretty small.")

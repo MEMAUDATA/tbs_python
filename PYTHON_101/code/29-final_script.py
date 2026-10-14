@@ -66,10 +66,10 @@ def ____(____, ____):
     """Return a dictionary with counts of 
     occurrences as value for each key."""
 
-    # Initialize an empty dictionary: langs_count
+    # Initialize an empty dictionary: langs_count 
     langs_count = {}
     
-    # Extract column from DataFrame: col
+    # Extract column lang from DataFrame: col
     col = tweets_df[col_name]
     
     # Iterate over lang column in DataFrame
